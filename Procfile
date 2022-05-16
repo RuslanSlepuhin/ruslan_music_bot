@@ -1,0 +1,1 @@
+worker: python ruslan_music_bot.py
